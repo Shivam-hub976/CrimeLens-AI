@@ -15,6 +15,10 @@ The Karnataka State Police (KSP) and State Crime Records Bureau (SCRB) maintain 
 
 ---
 
+**Datathon Submission** | [Live Demo](https://crimelensai-60079484267.development.catalystserverless.in/app/)
+
+---
+
 ## The Solution: Core Capabilities & Algorithmic Architecture
 
 CrimeLens AI transforms raw incident data into actionable intelligence, converting the SCRB into a **Strategic Intelligence Hub**.
