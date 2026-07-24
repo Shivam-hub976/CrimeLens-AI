@@ -1,0 +1,47 @@
+# dependencies (Ignored globally across all frontend & backend folders)
+node_modules/
+.pnp
+.pnp.js
+
+# testing
+coverage/
+
+# production / deployment builds
+build/
+.build/
+dist/
+.catalyst/
+
+# environment variables & secrets (CRITICAL FOR DATATHON SECURITY)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+catalyst.log*
+
+# Zoho Catalyst bulk import configs
+import-config.json
+
+# Node modules
+node_modules/
+frontend/node_modules/
+functions/api/node_modules/
+
+# Production builds
+frontend/build/
+.catalyst/
