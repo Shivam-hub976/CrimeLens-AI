@@ -15,7 +15,7 @@ The Karnataka State Police (KSP) and State Crime Records Bureau (SCRB) maintain 
 
 ---
 
-**Datathon Submission** | [Live Demo](https://crimelensai-60079484267.development.catalystserverless.in/app/)
+**Datathon Submission** | [Live Demo](https://crimelensai-60079484267.development.catalystserverless.in/app/#/app/)
 
 ---
 
